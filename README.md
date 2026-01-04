@@ -6,7 +6,9 @@ This project explores **three-qubit entangled states** using **Qiskit**.
 We construct **GHZ** and **W states**, simulate measurements, analyze **density matrices**, and study **entanglement** and **robustness**.
 
 ---
-![Quantum Circuit](Quantum.PNG)
+<p align="center">
+  <img src="Quantum.PNG" alt="Quantum Circuit" width="500"/>
+</p>
 
 
 ## Tools & Libraries
