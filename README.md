@@ -27,13 +27,6 @@ We used the following tools:
   <img src="https://img.shields.io/badge/DensityMatrix-Qiskit-purple?style=for-the-badge&logo=qiskit&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/partial_trace-Qiskit-darkpurple?style=for-the-badge&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/entropy-Qiskit-pink?style=for-the-badge&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/transpile-Qiskit-blueviolet?style=for-the-badge&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/execute/run-Qiskit-darkblue?style=for-the-badge&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/plot_histogram-Qiskit-green?style=for-the-badge&logo=qiskit&logoColor=white" />
-</p>
 
 
 
@@ -68,7 +61,7 @@ We used the following tools:
 
 ---
 
-## 🎓 Supervised by
+##  Supervised by
 
 <p align="center">
   Mr. ZAHI JARIR, Semlalia, University Cadi Ayyad 
