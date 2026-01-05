@@ -68,7 +68,7 @@ We used the following tools:
 ##  Supervised by
 
 <p align="center">
-  Mr. ZAHI JARIR, Semlalia, University Cadi Ayyad 
+  Mr. Zahi JARIR, Semlalia, University Cadi Ayyad 
 </p>
 
 
