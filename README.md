@@ -74,7 +74,9 @@ We used the following tools:
 <div align="center">
 
 ### Supervised by
-<img src="https://images.seeklogo.com/logo-png/31/1/universite-cadi-ayyad-marrakech-maroc-logo-png_seeklogo-315834.png" alt="UCA Logo" width="120">
+<p align="center">
+  <img src="images.png" alt="Quantum Circuit" width="500"/>
+</p>
 **Mr.  JARIR Zahi**  
 Coordinator of ISI Master Program  
 Faculty of Sciences Semlalia  
