@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ibm_fez",
+    "qubits": 156,
+    "operational": true,
+    "pending_jobs": 0
+  },
+  {
+    "name": "ibm_torino",
+    "qubits": 133,
+    "operational": true,
+    "pending_jobs": 0
+  },
+  {
+    "name": "ibm_marrakesh",
+    "qubits": 156,
+    "operational": true,
+    "pending_jobs": 0
+  }
+]
