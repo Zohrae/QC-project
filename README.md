@@ -1,6 +1,10 @@
 # Quantum States Project: 3-Qubit GHZ and W States
 
+
 ## Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+</p>
 
 This project explores **three-qubit entangled states** using **Qiskit**.  
 We construct **GHZ** and **W states**, simulate measurements, analyze **density matrices**, and study **entanglement** and **robustness**.
@@ -65,10 +69,18 @@ We used the following tools:
 
 ---
 
-##  Supervised by
+--
 
-<p align="center">
-  Mr. Zahi JARIR, Semlalia, University Cadi Ayyad 
-</p>
+<div align="center">
 
+### Supervised by
+<img src="https://images.seeklogo.com/logo-png/31/1/universite-cadi-ayyad-marrakech-maroc-logo-png_seeklogo-315834.png" alt="UCA Logo" width="120">
+**Mr.  JARIR Zahi**  
+Coordinator of ISI Master Program  
+Faculty of Sciences Semlalia  
+Cadi Ayyad University, Marrakech
+
+</div>
+
+---
 
