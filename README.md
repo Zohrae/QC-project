@@ -77,7 +77,7 @@ We used the following tools:
 <p align="center">
   <img src="images.png" alt="Quantum Circuit" width="500"/>
 </p>
-**Mr.  JARIR Zahi**  
+ **Mr.**  **JARIR Zahi** 
 Coordinator of ISI Master Program  
 Faculty of Sciences Semlalia  
 Cadi Ayyad University, Marrakech
